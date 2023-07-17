@@ -2,7 +2,7 @@
 
 
 <p>I am a Fullstack Software and Web Developer specialized in building TopNotch JavaScript Powered Software solutions with extensive knowledge in other relevant skills and tech stacks. </p>
-<p>I'm not going to put much here cause I've already done an awesome job 😎 on my <a href="https://www.ayomideodewale.com">website</a>.  <img src="https://emojis.slackmojis.com/emojis/images/1643517544/35772/dancetime.gif?1643517544" width="30"/> </p>
+<p>I'm not going to put much here cause I've already done an awesome job 😎 on my <a href="https://www.ayomideodewale.com" target="_blank">website</a>.  <img src="https://emojis.slackmojis.com/emojis/images/1643517544/35772/dancetime.gif?1643517544" width="30"/> </p>
 <a href="https://www.ayomideodewale.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/-Visit_My_Website-brightgreen?logo=webauthn&color=%2320234D&link=https%3A%2F%2Fwww.ayomideodewale.com">
 </a>
 <h3>But anyway, here are some of my fav tech stacks</h3>
