@@ -1,30 +1,57 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Maestro.</h1>
+<h1>Hi, I'm Ayomide Odewale <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
+<p>Fullstack engineer, 7+ years building products that go to production. I work across TypeScript, Go and Python, and I'm as at home in a Node or Django service as in React, Next.js, or the AWS and Terraform underneath. The language follows the problem. I build and run things end to end.</p>
 
-<p>I am a Fullstack Software and Web Developer specialized in building TopNotch JavaScript Powered Software solutions with extensive knowledge in other relevant skills and tech stacks. </p>
-<p>I'm not going to put much here cause I've already done an awesome job 😎 on my <a href="https://www.ayomideodewale.com" target="_blank">website</a>.  <img src="https://emojis.slackmojis.com/emojis/images/1643517544/35772/dancetime.gif?1643517544" width="30"/> </p>
-<a href="https://www.ayomideodewale.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/-Visit_My_Website-brightgreen?logo=webauthn&color=%2320234D&link=https%3A%2F%2Fwww.ayomideodewale.com">
-</a>
-<h3>But anyway, here are some of my fav tech stacks</h3>
-<div style="display:flex">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/NextJS-blue?style=flat-square&logo=nextdotjs" />
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-orange?style=flat-square&logo=svelte&logoColor=black">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss">
-  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-orange?style=flat-square&logo=express&logoColor=black">
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-green?style=flat-square&logo=python">
+<p>Most of my work has been in fintech, on platforms serving 10,000+ and 15,000+ users. These days I build and operate multi-tenant SaaS of my own, which means the architecture, the hosting and the 3am pages all land with me.</p>
 
-</div>
-
-<h3>Get In Touch With Me</h3>
-<p><a href="https://github.com/maestroharyor" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/maestroharyor" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ayomide-odewale" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://wa.link/vn513x" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-black?style=flat-square&logo=whatsapp">
-</a>
+<p>
+  <a href="https://www.ayomideodewale.com" target="_blank"><img alt="Visit my website" src="https://img.shields.io/badge/-Visit_My_Website-brightgreen?style=flat-square&logo=webauthn&color=%2320234D"></a>
+  <a href="https://www.ayomideodewale.com/resume" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/-Resume-informational?style=flat-square&logo=readdotcv&color=%2342489E"></a>
+  <a href="https://www.ayomideodewale.com/cloud" target="_blank"><img alt="Cloud and platform work" src="https://img.shields.io/badge/-Cloud_%26_Platform-orange?style=flat-square&logo=amazonwebservices&color=%23FFA900&logoColor=black"></a>
 </p>
 
-------------
-<p align="center">With 💖 from Maestro </p>
+### What I'm up to
+
+- 🧱 Building and running **[Braandly](https://braandly.com)**, a multi-tenant brand management platform of my own
+- ☁️ Working through **AWS Solutions Architect Associate (SAA-C03)**
+- 🐹 Writing a fair amount of **Go** lately, mostly small self-hosted tools
+- 📍 Lagos, Nigeria, open to remote (UTC+1)
+
+### Things I've built
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Braandly](https://braandly.com)** | Brand management for teams and agencies. Multi-tenant, with a public REST API, a **self-built OAuth 2.1 server** and an MCP server on top | Node.js · MongoDB · AWS |
+| **[MosesTab](https://mosestab.com)** | Church management software: members, events, attendance, child check-in and online giving, with Stripe Connect payouts per church. **47+ churches across 6 countries** | TypeScript · Node.js · Stripe |
+| **[BringVan](https://bringvan.com)** | A UK moving-company marketplace, with faceted search by area and rating | TypeScript |
+| **[VKT Bougie](https://vktbougie.com)** | A SvelteKit storefront for premium designer bags, with variant-level stock and Paystack checkout | SvelteKit · Paystack |
+
+Plus the small stuff: a [healthcheck service](https://github.com/maestroharyor/healthcheck-service) and a [Supabase keep-alive](https://github.com/maestroharyor/supabase-pings) in Go, a [YouTube scheduler](https://github.com/maestroharyor/youtube-scheduler-and-updater), and [this site](https://github.com/maestroharyor/ayomideodewale.com).
+
+### The stack I reach for
+
+**Core**
+
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+**Infrastructure**
+
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+
+**Also comfortable in**
+
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+### Get in touch
+
+<p>
+  <a href="https://www.ayomideodewale.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-20234D?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayomide-odewale" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/maestroharyor" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.braandly.bio/ayomideodewale" target="_blank"><img alt="Braandly" src="https://img.shields.io/badge/Braandly-42489E?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:ayomide@ayomideodewale.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">With 💖 from Maestro</p>
